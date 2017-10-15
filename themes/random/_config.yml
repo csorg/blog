@@ -9,14 +9,14 @@ menu:
   Tags: tags
   Categories: categories
   About: about
-  Github: https://github.com/stiekel/hexo-theme-random
+  Github: https://github.com/csorg
 
 social:
-  GitHub: https://github.com/stiekel/hexo-theme-random
-  Coding.NET: https://coding.net/u/Stiekel
-  Twitter: https://twitter.com/SidCN
-  Weibo: http://weibo.com/sidcn
-  DouBan: http://www.douban.com/people/Stiekel/
+  GitHub: https://github.com/csorg
+  #Coding.NET: https://coding.net/u/Stiekel
+  #Twitter: https://twitter.com/SidCN
+  #Weibo: http://weibo.com/sidcn
+  #DouBan: http://www.douban.com/people/Stiekel/
 
 # Google analytics
 google_analytics:
@@ -111,7 +111,7 @@ unsplashConfig:
   gravity: 'north' # north, east, south, west, center
   # greyscale: true
 
-avatar: http://7te9fe.com1.z0.glb.clouddn.com/default_avatar.jpg
+avatar: http://ox2x7j4is.bkt.clouddn.com/blog/171015/EffK3bm838.png?imageslim
 
 # do not like fancybox, set this as false, this will turn it off
 fancybox: true
